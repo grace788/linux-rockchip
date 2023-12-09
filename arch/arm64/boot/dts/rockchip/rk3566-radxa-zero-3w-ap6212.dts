@@ -10,7 +10,7 @@
 #include "rk3566-radxa-zero3.dtsi"
 
 / {
-	model = "Radxa ZERO 3";
+	model = "Radxa ZERO 3W";
 	compatible ="radxa,zero3w-ap6212", "radxa,zero3", "rockchip,rk3566";
 
 	wireless_wlan: wireless-wlan {
