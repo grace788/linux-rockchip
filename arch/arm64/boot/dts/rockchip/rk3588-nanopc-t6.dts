@@ -715,3 +715,7 @@
 	clock-names = "hdmi0_phy_pll", "hdmi1_phy_pll";
 };
 
+&wdt{
+    status = "okay";
+};
+
